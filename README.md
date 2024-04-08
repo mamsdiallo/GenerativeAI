@@ -22,10 +22,10 @@ Comparison the PEFT results to the results from prior to fine-tuning
 | eval_recall | 48.94% | 71.98% |
 | eval_runtime | 62.3483 | 108.3164 |
 
-_We conclude the fine-tuning with PEFT is improving the performance_
+**We conclude the fine-tuning with PEFT is improving the performance**
 
 
-First Attempt
+First Attempt: NOT PASSED
 File: LightweightFineTuning_Mdiallo.ipynb
 Executed on Google Colab with L4 GPU
 
