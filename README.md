@@ -15,7 +15,7 @@ Comparison the PEFT results to the results from prior to fine-tuning
 | eval_precision | 26.07% | 73.29% |
 | eval_recall | 51.06% | 73.04% |
 | eval_runtime | 102.1865 | 136.8249 |
-| eval_runtime | 102.1865 | 136.8249 |
+
 
 We conclude the fine-tuning with PEFT is improving the performance.
 
