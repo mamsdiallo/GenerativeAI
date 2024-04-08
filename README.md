@@ -3,7 +3,9 @@ Projects in Generative AI
 ## Chapter 1: Generative AI Fundamentals
 ### Project: Apply Lightweight Fine-Tuning to a Foundational Model
 Second Attempt:
+
 File: **LightweightFineTuning_Mdiallo v2.ipynb** 
+
 Changes from 1st attempt:
 1. Replace the GPT2Tokenizer with AutoTokenizer
 2. Replace the GPT2ForSequenceClassification with AutoModelForSequenceClassification
