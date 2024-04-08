@@ -2,8 +2,32 @@
 Projects in Generative AI
 ## Chapter 1: Generative AI Fundamentals
 ### Project: Apply Lightweight Fine-Tuning to a Foundational Model
+Second Attempt:
+File: ** LightweightFineTuning_Mdiallo v2.ipynb ** 
+Changes from 1st attempt:
+1. Replace the GPT2Tokenizer with AutoTokenizer
+2. Replace the GPT2ForSequenceClassification with AutoModelForSequenceClassification
+3. Using the AutoPeftModelForSequenceClassification instead of the AutoModelForSequenceClassification
+
+Executed on Google Colab with V100 GPU
+
+Comparison the PEFT results to the results from prior to fine-tuning
+
+| Metric | Prior | PEFT |
+| --- | ----------- | ----------- |
+| eval_loss | 3.92986  | 0.55727 |
+| eval_accuracy | 48.94% | 71.98% |
+| eval_f1 | 32.17% | 71.77% |
+| eval_precision | 23.96% | 72.41% |
+| eval_recall | 48.94% | 71.98% |
+| eval_runtime | 62.3483 | 108.3164 |
+
+We conclude the fine-tuning with PEFT is improving the performance.
+
+
+First Attempt
 File: LightweightFineTuning_Mdiallo.ipynb
-Executed on Google Colab
+Executed on Google Colab with L4 GPU
 
 Comparison the PEFT results to the results from prior to fine-tuning
 
@@ -19,6 +43,7 @@ Comparison the PEFT results to the results from prior to fine-tuning
 
 We conclude the fine-tuning with PEFT is improving the performance.
 
+### Resources
 Resources on Fine-tuning with GPT2: 
 Source: https://drlee.io/fine-tuning-gpt-2-for-sentiment-analysis-94ebdd7b5b24 
 
