@@ -46,7 +46,7 @@ Comparison the PEFT results to the results from prior to fine-tuning
 
 We conclude the fine-tuning with PEFT is improving the performance.
 
-### Resources
+### Resources related to chapter 1
 Resources on Fine-tuning with GPT2: 
 Source: https://drlee.io/fine-tuning-gpt-2-for-sentiment-analysis-94ebdd7b5b24 
 
@@ -56,4 +56,12 @@ Source: https://colab.research.google.com/drive/13dZVYEOMhXhkXWfvSMVM1TTtUDrT6Ae
 Resource realted to 4-bit quantization
 Source: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 
+## Chapter 2: Large Language Models (LLMs) & Text Generation
+### Project: Build Your Own Custom Chatbot
+
+
+### Resources related to chapter 2
+
+Resource on setuing up 
+Source: https://www.mend.io/free-developer-tools/a/community/software-dependencies/how-do-you-install-python-dependencies-through-requirements-txt-in-google-colab/
 
