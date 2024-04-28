@@ -59,9 +59,7 @@ Source: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 ## Chapter 2: Large Language Models (LLMs) & Text Generation
 ### Project: Build Your Own Custom Chatbot
 
+File: hatbot_project_MDI.ipynb
 
-### Resources related to chapter 2
-
-Resource on setuing up 
-Source: https://www.mend.io/free-developer-tools/a/community/software-dependencies/how-do-you-install-python-dependencies-through-requirements-txt-in-google-colab/
+We conclude the model responds the differently meaning the dataset was appropriate for the task
 
