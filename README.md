@@ -63,3 +63,7 @@ File: Chatbot_project_MDI.ipynb (here: https://github.com/mamsdiallo/GenerativeA
 
 We conclude the model responds the differently meaning the dataset was appropriate for the task
 
+
+## Chapter 3: Computer Vision and Generative AI
+### Project: AI Photo Editing with Inpainting
+
