@@ -59,7 +59,7 @@ Source: https://huggingface.co/blog/4bit-transformers-bitsandbytes
 ## Chapter 2: Large Language Models (LLMs) & Text Generation
 ### Project: Build Your Own Custom Chatbot
 
-File: hatbot_project_MDI.ipynb
+File: Chatbot_project_MDI.ipynb
 
 We conclude the model responds the differently meaning the dataset was appropriate for the task
 
