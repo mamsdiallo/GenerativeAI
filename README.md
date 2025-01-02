@@ -67,7 +67,7 @@ We conclude the model responds the differently meaning the dataset was appropria
 ## Chapter 3: Computer Vision and Generative AI
 ### Project: AI Photo Editing with Inpainting
 
-File: **starterAI_PhotoEditingWithInpainting_MDiallo.ipynb** 
+File: **starterv2.ipynb.ipynb** 
 
 2nd attempt: Addition of screenshots
 
