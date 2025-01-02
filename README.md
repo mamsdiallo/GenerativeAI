@@ -68,5 +68,9 @@ We conclude the model responds the differently meaning the dataset was appropria
 ### Project: AI Photo Editing with Inpainting
 
 File: **starterAI_PhotoEditingWithInpainting_MDiallo.ipynb** 
+2nd attempt: Addition of screenshots
+Screenshots: 
+1. file "a fantasy landscape with flying dragons.png"
+2. file "Screenshot 2025-01-02 at 18.17.42"
 
 We conclude the inpaint is working perfectly.
