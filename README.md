@@ -81,3 +81,6 @@ source: https://encord.com/blog/segment-anything-model-explained/
 
 Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey
 source:https://arxiv.org/abs/2308.09388
+
+Top 6 Research Papers On Diffusion Models For Image Generation
+source: https://www.topbots.com/research-papers-diffusion-models/
