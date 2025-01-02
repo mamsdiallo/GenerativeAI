@@ -67,3 +67,6 @@ We conclude the model responds the differently meaning the dataset was appropria
 ## Chapter 3: Computer Vision and Generative AI
 ### Project: AI Photo Editing with Inpainting
 
+File: 
+
+We conclude the inpaint is working perfectly.
