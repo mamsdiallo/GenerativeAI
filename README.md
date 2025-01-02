@@ -74,3 +74,10 @@ Screenshots:
 2. file "Screenshot 2025-01-02 at 18.17.42.png"
 
 We conclude the inpaint is working perfectly.
+
+### Resources related to chapter 3:
+Meta AI's Segment Anything Model (SAM) Explained: The Ultimate Guide
+source: https://encord.com/blog/segment-anything-model-explained/
+
+Diffusion Models for Image Restoration and Enhancement -- A Comprehensive Survey
+source:https://arxiv.org/abs/2308.09388
