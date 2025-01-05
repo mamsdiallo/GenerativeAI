@@ -88,3 +88,13 @@ source:https://arxiv.org/abs/2308.09388
 
 Top 6 Research Papers On Diffusion Models For Image Generation
 source: https://www.topbots.com/research-papers-diffusion-models/
+
+## Chapter 4: Building Generative AI Solutions
+### Project: Personalized Real Estate Agent
+
+File: ** HomeMatchMDiallo.ipynb **
+
+Conclusion
+
+### Resources related to chapter 4 
+
