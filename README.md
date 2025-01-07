@@ -92,7 +92,7 @@ source: https://www.topbots.com/research-papers-diffusion-models/
 ## Chapter 4: Building Generative AI Solutions
 ### Project: Personalized Real Estate Agent
 
-File: ** HomeMatchMDialloV1_0.ipynb **
+File: **HomeMatchMDialloV1_0.ipynb**
 
 Conclusion:
 We conclude it is working fine.
